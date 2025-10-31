@@ -1,9 +1,9 @@
 # US-001 Cadastro de Curso
 
-| **PO Responsável** | Ana Sousa | <br>
-| **Sprint** | 2 | <br>
-| **Prioridade de Negócio** | Alta | <br>
-| **Pontos Estimados** | 5 |
+ **PO Responsável:**  Ana Sousa <br>
+ **Sprint:** 2 <br>
+ **Prioridade de Negócio:**  Alta | <br>
+ **Pontos Estimados:**  5 
 
 ## Desejo
 
