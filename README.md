@@ -18,15 +18,18 @@ Para que **fiquem disponíveis na listagem e possam ser visualizados por outros 
 ### Regras de Negócio
 
 1.  O sistema deve permitir o cadastro de um novo curso preenchendo os campos obrigatórios.
-2.  **Campos obrigatórios:** Nome do Curso, Descrição, Carga Horária.
+2.  **Campos obrigatórios:** Nome do Curso, Descrição do Curso, Instrutor, Datas Incício e Fim, Número de Vagas e Tipo de Curso (Endereço ou Online dependendo do tipo de curso).
 3.  **Campo Nome do Curso:** Deve conter no mínimo 3 caracteres.
-4.  **Campo Carga Horária:** Deve aceitar apenas números positivos.
-5.  **Campo Descrição:** Deve conter no mínimo 10 caracteres.
-6.  **Campo Data de Fim:** Não pode ser anterior à Data de Início.
-7.  O **botão "Salvar"** deve permanecer inativo até que todos os campos obrigatórios sejam preenchidos corretamente.
-8.  Caso algum campo seja preenchido incorretamente, o sistema deve exibir uma mensagem de erro específica abaixo do campo.
-9.  O curso cadastrado deve aparecer na listagem de cursos imediatamente após o salvamento.
-10. O sistema deve impedir o cadastro de cursos com nomes duplicados.
+4.  **Campo Instrutor:** Deve conter no mínimo 3 caracteres, excluindo caracteres númericos e especiais.
+5.  **Campo Número de Vagas:** Deve aceitar apenas números positivos.
+6.  **Campo Descrição do Curso:** Deve conter no mínimo 10 caracteres.
+7.  **Campo Data de Fim:** Não pode ser anterior à Data de Início.
+8.  Ao selecionar um tipo de curso, o administrador deverá obrigatóriamente escolher o modelo de ensino (Online ou Presencial)
+9.  Adicionar capa para o curso é opcional, mas se preenchido deverá conter dados formato de link
+10.  O **botão "Salvar"** deve permanecer inativo até que todos os campos obrigatórios sejam preenchidos corretamente.
+11. Caso algum campo seja preenchido incorretamente, o sistema deve exibir uma mensagem de erro específica abaixo do campo.
+12. O curso cadastrado deve aparecer na listagem de cursos imediatamente após o salvamento.
+13. O sistema deve impedir o cadastro de cursos com nomes duplicados.
 
 ---
 
