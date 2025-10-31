@@ -1,11 +1,13 @@
-# US-001 Cadastro de Curso
+
+
+## US-001 Cadastro de Curso
 
  **PO Responsável:**  Ana Sousa <br>
  **Sprint:** 2 <br>
  **Prioridade de Negócio:**  Alta | <br>
  **Pontos Estimados:**  5 
 
-## Desejo
+### Desejo
 
 Eu, como **usuário administrador** do módulo de curso, <br>
 Quero **cadastrar novos cursos por meio de um formulário**, <br>
@@ -13,7 +15,7 @@ Para que **fiquem disponíveis na listagem e possam ser visualizados por outros 
 
 ---
 
-## Regras de Negócio
+### Regras de Negócio
 
 1.  O sistema deve permitir o cadastro de um novo curso preenchendo os campos obrigatórios.
 2.  **Campos obrigatórios:** Nome do Curso, Descrição, Carga Horária.
@@ -28,9 +30,9 @@ Para que **fiquem disponíveis na listagem e possam ser visualizados por outros 
 
 ---
 
-## Critérios de Aceitação (Gherkin)
+### Critérios de Aceitação (Gherkin)
 
-### Cenário 1: Cadastrar curso com sucesso
+#### Cenário 1: Cadastrar curso com sucesso
 
 ```gherkin
 Dado que o usuário está na página "Cadastrar Curso"
