@@ -7,8 +7,8 @@
 
 ## Desejo
 
-Eu, como **usuário administrador** do módulo de curso,
-Quero **cadastrar novos cursos por meio de um formulário**,
+Eu, como **usuário administrador** do módulo de curso, <br>
+Quero **cadastrar novos cursos por meio de um formulário**, <br>
 Para que **fiquem disponíveis na listagem e possam ser visualizados por outros usuários.**
 
 ---
