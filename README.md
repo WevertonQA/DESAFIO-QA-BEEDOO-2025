@@ -1,4 +1,4 @@
-
+#Users Story
 
 ## US-001 Cadastro de Curso
 
@@ -9,11 +9,9 @@
 
 ### Desejo
 
-Eu, como **usuário administrador** do módulo de curso, <br>
+Eu, como **administrador** do módulo de curso, <br>
 Quero **cadastrar novos cursos por meio de um formulário**, <br>
 Para que **fiquem disponíveis na listagem e possam ser visualizados por outros usuários.**
-
----
 
 ### Regras de Negócio
 
@@ -32,3 +30,22 @@ Para que **fiquem disponíveis na listagem e possam ser visualizados por outros 
 
 ---
 
+## US-002 Listar Curso
+
+ **PO Responsável:**  Ana Souza <br>
+ **Sprint:** 2 <br>
+ **Prioridade de Negócio:**  Alta | <br>
+ **Pontos Estimados:**  5 
+
+### Desejo
+
+Eu, como administrador do módulo de curso <br>
+Quero visualizar todos os cursos cadastrados em uma lista organizada <br>
+Para consultar rapidamente as informações de cada curso (nome, descrição, instrutor, vagas, Tipo de Curso).
+
+Regra(s) de Negócio:
+
+1. A lista deve exibir todos os cursos cadastrados.
+2. Cada curso deve ser mostrado em formato de card com as informações principais.
+3. Se não houver cursos cadastrados, deve ser exibida mensagem informativa.
+4. O administrador deverá ter a opção de excluir curso
