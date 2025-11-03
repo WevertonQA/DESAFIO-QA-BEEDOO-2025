@@ -42,16 +42,16 @@ Para consultar rapidamente as informações de cada curso (nome, descrição, in
 
 ---
 
-## 🪶 Evidências
+## Evidências
 
-🎥 **[Link evidências](https://drive.google.com/drive/folders/1rbYi7miKIfaSbp3tF1sEkUbtEtWdU5u0?usp=sharing)**  
-📊 **[Link para planilha de Casos de Teste (Google Sheets)](https://docs.google.com/spreadsheets/d/1V3RQUQzOYD9jRXwoGJ6UT6IduTA_2P_UNolllkhnPoE/edit?usp=drive_link)**  
-📸 **[Link para planilha de Relatório de Testes)](https://docs.google.com/spreadsheets/d/1AQGmC9ZMNhMidSW97ihXg7Qucfez20pELPL78ohKepA/edit?usp=drive_link)**  
-📄 **[Relatório de Bugs](https://docs.google.com/spreadsheets/d/1EXpasn3eziw9Jg-70PvdNyHjh_uGNsMmtVyYNtblpu4/edit?usp=drive_link)**  
+**[Link evidências](https://drive.google.com/drive/folders/1rbYi7miKIfaSbp3tF1sEkUbtEtWdU5u0?usp=sharing)**  
+**[Link para planilha de Casos de Teste (Google Sheets)](https://docs.google.com/spreadsheets/d/1V3RQUQzOYD9jRXwoGJ6UT6IduTA_2P_UNolllkhnPoE/edit?usp=drive_link)**  
+**[Link para planilha de Relatório de Testes)](https://docs.google.com/spreadsheets/d/1AQGmC9ZMNhMidSW97ihXg7Qucfez20pELPL78ohKepA/edit?usp=drive_link)**  
+**[Relatório de Bugs](https://docs.google.com/spreadsheets/d/1EXpasn3eziw9Jg-70PvdNyHjh_uGNsMmtVyYNtblpu4/edit?usp=drive_link)**  
 
 ---
 
-## 📂 Passo a Passo de Execução
+## Passo a Passo de Execução
 
 1. Acesse o link da aplicação.  
 2. Crie um curso de teste preenchendo todos os campos obrigatórios.  
@@ -64,4 +64,4 @@ Para consultar rapidamente as informações de cada curso (nome, descrição, in
 
 **Weverton Hnrique Ramalho dos Santos**  
 QA Júnior – Desafio Beedoo 2025  
-📧 wevertonsantos.qa@gmail.com
+wevertonsantos.qa@gmail.com
