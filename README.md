@@ -2,11 +2,6 @@
 
 ## US-001 Cadastro de Curso
 
- **PO Responsável:**  Ana Sousa <br>
- **Sprint:** 2 <br>
- **Prioridade de Negócio:**  Alta | <br>
- **Pontos Estimados:**  5 
-
 ### Desejo
 
 Eu, como **administrador** do módulo de curso, <br>
@@ -32,20 +27,41 @@ Para que **fiquem disponíveis na listagem e possam ser visualizados por outros 
 
 ## US-002 Listar Curso
 
- **PO Responsável:**  Ana Souza <br>
- **Sprint:** 2 <br>
- **Prioridade de Negócio:**  Alta | <br>
- **Pontos Estimados:**  5 
-
 ### Desejo
 
 Eu, como administrador do módulo de curso <br>
 Quero visualizar todos os cursos cadastrados em uma lista organizada <br>
 Para consultar rapidamente as informações de cada curso (nome, descrição, instrutor, vagas, Tipo de Curso).
 
-Regra(s) de Negócio:
+### Regras de Negócio:
 
 1. A lista deve exibir todos os cursos cadastrados.
 2. Cada curso deve ser mostrado em formato de card com as informações principais.
 3. Se não houver cursos cadastrados, deve ser exibida mensagem informativa.
 4. O administrador deverá ter a opção de excluir curso
+
+---
+
+## 🪶 Evidências de Teste
+
+🎥 **[Link evidências](https://drive.google.com/drive/folders/1rbYi7miKIfaSbp3tF1sEkUbtEtWdU5u0?usp=sharing)**  
+📊 **[Link para planilha de Casos de Teste (Google Sheets)](https://docs.google.com/spreadsheets/d/1V3RQUQzOYD9jRXwoGJ6UT6IduTA_2P_UNolllkhnPoE/edit?usp=drive_link))**  
+📸 **[Link para planilha de Relatório de Testes)](https://docs.google.com/spreadsheets/d/1AQGmC9ZMNhMidSW97ihXg7Qucfez20pELPL78ohKepA/edit?usp=drive_link))**  
+📄 **[Relatório de Bugs](https://docs.google.com/spreadsheets/d/1EXpasn3eziw9Jg-70PvdNyHjh_uGNsMmtVyYNtblpu4/edit?usp=drive_link))**  
+
+---
+
+## 📂 Passo a Passo de Execução
+
+1. Acesse o link da aplicação.  
+2. Crie um curso de teste preenchendo todos os campos obrigatórios.  
+3. Verifique se o curso aparece na listagem após salvar.  
+4. Teste a exclusão de um curso e observe se ele é realmente removido.  
+5. Registre evidências visuais e resultados obtidos.  
+
+---
+
+
+**Weverton Hnrique Ramalho dos Santos**  
+QA Júnior – Desafio Beedoo 2025  
+📧 wevertonsantos.qa@gmail.com
